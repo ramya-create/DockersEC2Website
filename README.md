@@ -4,8 +4,7 @@
 
 1. Create a EC instance as below
 2. Use Ubutu linux - Launch-wizard-1 security group - your own sshkey - t2.micro - spot instance
-3. Create an EC2 Instance using below provision shell script (first block) in the "USER DATA" 
- 
+3. In the "USER DATA" give the below scrip (whatever you see in the first block below) 
 ```  
 #!/bin/bash
 
